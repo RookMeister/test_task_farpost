@@ -3,7 +3,7 @@
 ## Установка
 
 ```
-clone https://github.com/RookMeister/api-kanban-board.git
+clone https://github.com/RookMeister/test_task_farpost.git
 
 ```
 
